@@ -3,7 +3,7 @@ Link: https://creative-exercise-sstardellis.glitch.me/
 
 - Used both Canvas and SVG
 
-- Examples followed
+- Resources
   - SVG circle https://www.w3schools.com/graphics/svg_circle.asp
   - SVG path https://www.w3schools.com/graphics/svg_path.asp
   - SVG gradient https://www.w3schools.com/graphics/svg_grad_linear.asp
