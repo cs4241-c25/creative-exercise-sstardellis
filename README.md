@@ -1,5 +1,5 @@
 ## Pacman and Smiley Face
-http://creative-exercise-githubname.glitch.me
+Link: https://creative-exercise-sstardellis.glitch.me/
 
 - Used both Canvas and SVG
 
